@@ -1,0 +1,6 @@
+The graph is increasing until it reached its peak value when it is at the interval of 9.
+After that interval it starts again with the same value that it has in the beggining until
+it also reached the same value that the interval 9 had. It continued to repeat until it 
+finished its interval 100. The reason for this is because the piecewise function did not
+allow a value of the variable greater that 9. It will continue to subtract until it became
+a value which fits the first condition thus making the graph repeated.
